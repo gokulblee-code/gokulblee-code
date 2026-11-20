@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm GokulBlee <span style="font-size: 24px;">👋</span></h1>
-  <p><strong>Full-Stack & Applied AI Solutions Engineer</strong></p>
-  <p>Building scalable web applications, computer vision pipelines, and intelligent agents.</p>
+  <p><strong>Vibe Code Developer in Any Language with Core Logic</strong></p>
+  <p>Pro in <strong>Antigravity</strong> • <strong>Git</strong> • <strong>VS Code</strong> | Building intelligent systems & scalable web architectures.</p>
 
   <p>
     <a href="https://gokulblee-code.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Live Portfolio" /></a>
@@ -15,22 +15,22 @@
 
 ### 🚀 About Me
 
-- 💻 **Backend Engineering:** Architecting scalable APIs and backend systems with **Python, Django, Node.js, and PostgreSQL**.
-- 🧠 **Applied AI & Computer Vision:** Designing computer vision inference pipelines utilizing **Meta DINOv2 Vision Transformers**, PyTorch, and OpenCV.
-- 🎨 **Frontend Development:** Crafting clean, responsive user interfaces with **React, Tailwind CSS, and TypeScript**.
-- ⚡ **Core Philosophy:** Clean code, high reliability, zero bloat, and business-driven software delivery.
+- ⚡ **Vibe Coding in Any Language:** Transforming concepts into production-grade applications across multiple languages driven by rock-solid algorithmic logic and modern AI workflows.
+- 🛠️ **Power Tooling & Workflow Pro:** Master of **Antigravity**, **VS Code**, and advanced **Git** version control pipelines.
+- 🧠 **Applied AI & Systems:** Engineering computer vision and automation pipelines using **Meta DINOv2 Vision Transformers**, PyTorch, and intelligent agents.
+- 💻 **Backend & Core Logic:** Designing robust, scalable backend architectures with **Python, Django, Node.js, and PostgreSQL**.
 
 ---
 
-### 🛠️ Technical Capabilities
+### 🛠️ Technical Capabilities & Tooling
 
-| Domain | Technologies |
+| Domain | Technologies & Workflows |
 | :--- | :--- |
-| **Languages** | Python (3.x), JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 |
+| **Vibe Coding & Tools** | **Antigravity**, **VS Code**, **Git & GitHub Workflow**, GitHub Pages, CI/CD |
+| **Languages (Polyglot)** | Python (3.x), JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 |
 | **Backend & Frameworks** | Django, Django REST Framework, Node.js, Express.js |
 | **AI / Machine Learning** | Meta DINOv2, PyTorch, Computer Vision, OpenCV, Autonomous Agents |
 | **Databases & Realtime** | PostgreSQL, SQLite, Socket.io / WebSockets, RESTful APIs |
-| **DevOps & Workflow** | Git, GitHub Pages, Linux, CI/CD, Postman |
 
 ---
 
