@@ -5,6 +5,7 @@
 
   <p>
     <a href="https://gokulblee-code.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Live Portfolio" /></a>
+    <a href="https://discord.gg/yem2HkTGN"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://www.linkedin.com/in/gokul-b-8aa694406_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:gokulblee-code@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -57,5 +58,5 @@
 ---
 
 <div align="center">
-  <sub>Open for engineering roles and select freelance collaborations. Feel free to connect!</sub>
+  <sub>Open for engineering roles, freelance collaborations, and tech discussions. Join my <a href="https://discord.gg/yem2HkTGN">Discord Community</a>!</sub>
 </div>
